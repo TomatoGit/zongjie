@@ -6,6 +6,7 @@
         - ### [2019.09.08-09.15周报](zhoubao/19.9.8-9.15zhoubao.md)
     - ## [EverydayThinking](EverydayThinking)
         - ### [2019.09.16](EverydayThinking/19-09-16.md)
+        - ### [2019.09.17](EverydayThinking/19-09-17.md)
     - ## [笔记](Notes)
         - ### [JavaScript](Notes/JS)
             - #### [变量提升](Notes/JS/bianliangtisheng.md)
