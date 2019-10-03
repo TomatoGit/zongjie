@@ -4,6 +4,8 @@
     - ## [周报](zhoubao)
         - ### [2019.09.02-09.08周报](zhoubao/19.9.2-9.8zhoubao.md)
         - ### [2019.09.08-09.15周报](zhoubao/19.9.8-9.15zhoubao.md)
+        - ### [2019.09.15-09.22周报](zhoubao/19.9.15-9.22zhoubao.md)
+        - ### [2019.09.23-09.29周报](zhoubao/19.9.23-9.29zhoubao.md)
     - ## [EverydayThinking](EverydayThinking)
         - ### [2019.09.16](EverydayThinking/19-09-16.md)
         - ### [2019.09.17](EverydayThinking/19-09-17.md)
